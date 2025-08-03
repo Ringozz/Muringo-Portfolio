@@ -26,7 +26,7 @@ My personal interests
 A contact form for getting in touch
 
 # Guide
-How to View It
+How to View It.
 Open the index.html file in your browser.
 
 Make sure style.css, Webbb.jpg, and profile.jpg are in the same folder.
@@ -34,7 +34,7 @@ Make sure style.css, Webbb.jpg, and profile.jpg are in the same folder.
 If you'd like to customize it, feel free to explore and tweak the code.
 
 # The End
-A Note from Me
+A Note from Me.
 I created this site as a living portfolio — something that will grow with me. Whether you’re here to get inspired, collaborate, or just explore, welcome to my creative corner.
 
 Thank you for stopping by!
