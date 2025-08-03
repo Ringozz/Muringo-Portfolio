@@ -1,3 +1,13 @@
+.project-card {
+  opacity: 1 !important;
+  transform: none !important;
+}
+/* Ensure project content is always visible */
+.project-content {
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
 /* Project Card Overlay Animation */
 .project-image {
     position: relative;
